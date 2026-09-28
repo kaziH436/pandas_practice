@@ -22,3 +22,6 @@ print(series.iloc[1])
 # e.g. index=['a','b','c'] and data=[100,200,300,400] will result in a value
 
 
+# Filter values 
+print(series[series>200])
+
