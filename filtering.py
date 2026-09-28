@@ -1,0 +1,2 @@
+# | means union 
+# & means intersection 
